@@ -1,0 +1,18 @@
+Timestamp,Year of Study,Major ,Favorite Programming Language,Are you familiar with Machine Learning?,"If so, for what have you used it?",Which of the following do you think uses Machine Learning?,Which Chatbot do you use?
+2/14/2026 22:23:29,L3,CS,C++,None,,Netflix movie recommendations,"ChatGPT, Copilot, Gemini"
+2/14/2026 22:23:38,L2,CS,,None,Natural Language Processing,Self-driving cars,"Claude, ChatGPT, Deepseek"
+2/14/2026 22:23:45,L2,Physics,Matlab,None,"Prediction, Computer Vision",Google search,ChatGPT
+2/14/2026 22:25:33,L1,CS,Python,None,,Netflix movie recommendations,"ChatGPT, Deepseek"
+2/15/2026 21:11:47,L3,CS,Python,Beginner,ai,Self-driving cars,"Claude, ChatGPT, Deepseek, Gemini"
+2/15/2026 21:11:55,L2,CS,C++,Beginner,Computer Vision,Weather forecasting,ChatGPT
+2/15/2026 21:24:43,L3,CS,C,Beginner,Prediction,Email spam filtering,Deepseek
+2/16/2026 0:33:51,L3,CS,Java,None,,Self-driving cars,ChatGPT
+2/16/2026 7:15:06,L1,CS,C,None,,Self-driving cars,Deepseek
+2/16/2026 7:15:38,L1,CS,Python,Beginner,,Google search,ChatGPT
+2/16/2026 20:26:43,L3,Physics,Python,Beginner,"Prediction, Recommendation",Self-driving cars,ChatGPT
+2/26/2026 19:03:19,M1,Physics,Python,None,,Netflix movie recommendations,Gemini
+2/26/2026 19:08:29,L1,CS,C,Beginner,,Netflix movie recommendations,Gemini
+2/26/2026 19:08:57,L2,CS,C++,None,,Self-driving cars,"Claude, ChatGPT, Deepseek, Copilot, Gemini"
+2/26/2026 19:37:20,L3,CS,Python,None,,Self-driving cars,ChatGPT
+2/26/2026 19:49:08,M1,Chemistry,Python,None,,Self-driving cars,ChatGPT
+2/26/2026 21:58:01,L2,Physics,Matlab,None,,Google search,ChatGPT
